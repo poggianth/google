@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+    font-family: Aral;
+    font-size: 10pt;
+    color: #222;
+}
+
+.container{
+    width: 600px;
+    margin: 175px auto 0;
+}
+
+#localizar{
+    width: 100%;
+    height: 42px;
+    margin: 30px 0;
+    border-radius: 25px;
+    text-align: left;
+    padding: 0 15px;
+    box-shadow: 0px 0px 5px #aaa;
+    border: none;
+    font-size: 12pt;
+}
+
+.link{
+    padding: 15px 7px;
+    width: 106px;
+    float: left;
+}
+
+.link:hover{
+    border-radius: 5px;
+    background-color: #eee;
+    cursor: pointer;
+}
+
+.link img{
+    margin-bottom: 15px;
+}
